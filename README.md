@@ -15,7 +15,7 @@
 
 ###### 2 - no terminal é só digitar ´´´CDS´´´ ou ´´´cds´´´ e do lado informar o nome do script novo que será criado e pronto!.
 
-###ADICIONE UM GIF ATUALIZADO###
+
 
 ![Peek 24-04-2022 01-51](https://user-images.githubusercontent.com/101364473/164957228-ede13138-0b5a-4c25-9081-17ce0ec8065e.gif)
 
